@@ -1,0 +1,5 @@
+option java_package = "com.linguofeng.protobuf.hello";
+
+message Test {
+    required string name = 1;
+}
